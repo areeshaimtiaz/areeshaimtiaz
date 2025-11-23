@@ -8,19 +8,19 @@ I'm passionate about **full-stack software engineering**, **artificial intellige
 ### 🔭 What I’m working on
 - Leading the **Northrop Grumman UAV Autonomy Project**, developing flight software using PX4, MAVSDK, and Gazebo  
 - Researching **Control Flow Graphs (CFGs)** for AI-assisted code optimization  
-- Taking a **Full-Stack Engineering course** focused on building scalable, well-structured web applications  
+- Taking **Full-Stack Engineering courses** focused on building scalable, well-structured web applications  
 
 ---
 
 ### 🌱 What I’m learning
 - Advanced full-stack development and deployment workflows  
-- UAV simulation with PX4 SITL and ROS/Gazebo  
+- UAV simulation with PX4 SITL and MAVSDK/Gazebo  
 - Compiler construction and LLVM-based static analysis  
 
 ---
 
 ### 💻 Tech Stack
-**Languages:** C++, C, Python, Rust, R, Bash, JavaScript  
+**Languages:** C/C++, Python, Rust, R, Bash, JavaScript  
 **Web:** HTML, CSS, React  
 **Databases:** SQL, PostgreSQL  
 **Frameworks & Tools:** PX4, MAVSDK, Unity, CARLA  
