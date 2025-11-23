@@ -14,7 +14,7 @@
 
 ### 🌱 I’m currently learning
 - Advanced **full-stack software design and deployment practices**  
-- UAV simulation with **PX4 SITL** and **ROS/Gazebo**  
+- UAV simulation with **PX4 SITL** and **MAVSDK/Gazebo**  
 - Compiler construction and **LLVM-based static analysis**
 
 ---
