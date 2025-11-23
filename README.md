@@ -1,19 +1,19 @@
 ## Hi there 👋 I'm Areesha Imtiaz
 
 🎓 **Computer Science (Honors)** major & **Data Science minor** at [Cal Poly Pomona](https://www.cpp.edu/)  
-💡 Passionate about **software engineering**, **AI-driven systems**, and **data-driven learning**
+💡 Passionate about **full-stack software engineering**, **artificial intelligence and machine learning**, and **technical project management**
 
 ---
 
 ### 🔭 I’m currently working on
 - Leading the **Northrop Grumman UAV Autonomy Project** — developing flight software with PX4, MAVSDK, and Gazebo  
-- Building a **full-stack student housing platform** with React, Flask, and SQLAlchemy  
 - Conducting research on **Control Flow Graphs (CFGs)** for AI-assisted code optimization  
+- Expanding my expertise through a **Full-Stack Engineering course**, focusing on modern web architectures, scalable APIs, and seamless frontend-backend integration  
 
 ---
 
 ### 🌱 I’m currently learning
-- Advanced **Python automation** and **backend systems design**  
+- Advanced **full-stack software design and deployment practices**  
 - UAV simulation with **PX4 SITL** and **ROS/Gazebo**  
 - Compiler construction and **LLVM-based static analysis**
 
