@@ -8,7 +8,7 @@
 ### 🔭 I’m currently working on
 - Leading the **Northrop Grumman UAV Autonomy Project** — developing flight software with PX4, MAVSDK, and Gazebo  
 - Conducting research on **Control Flow Graphs (CFGs)** for AI-assisted code optimization  
-- Expanding my expertise through a **Full-Stack Engineering course**, focusing on modern web architectures, scalable APIs, and seamless frontend-backend integration  
+- Expanding my expertise through **Full-Stack Engineering courses**, focusing on modern web architectures, scalable APIs, and seamless frontend-backend integration  
 
 ---
 
